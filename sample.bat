@@ -1,0 +1,1 @@
+copy C:\Users\moulika.balaram\Desktop\DemoProject\target\DemoProject-0.0.1-SNAPSHOT.war C:\Tools\apache-tomcat-8.0.37\webapps\Deploy\
